@@ -1,4 +1,7 @@
 Configurar VSC para Django (Actualizado 03/2024)
+[Ver documento original aquí](https://gist.github.com/hcosta/6e4066adb1938c888546c5f0a9616c48)
+***LAS IMAGENES Y EXPLICACION***
+
 Actualmente no es necesario configurar el proyecto en el directorio .vscode/settings.json, es mucho más fácil. Solo hay que seguir estos pasos:
 
 Antes de nada instalad estas extensiones en vuestro Visual Studio Code:
